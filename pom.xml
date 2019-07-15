@@ -137,16 +137,8 @@
 	    <groupId>org.mybatis</groupId>
 	    <artifactId>mybatis</artifactId>
 	    <version>3.4.1</version>
-	</dependency>
-	<!-- https://mvnrepository.com/artifact/com.oracle/ojdbc -->
-	<dependency>
-	    <groupId>com.oracle</groupId>
-	    <artifactId>ojdbc</artifactId>
-	    <version>6</version>
-	</dependency>
-			
+	</dependency>	
   </dependencies>
-  
 
   <build>
 	  <pluginManagement>
