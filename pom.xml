@@ -17,7 +17,7 @@
     <!--Dependency versions-->
     <vertx.version>3.7.1</vertx.version>
     <junit.version>4.11</junit.version>
-    <spring.version>4.3.24.RELEASE</spring.version>
+    <spring.version>6.0.0</spring.version>
 
     <!--Plugin versions-->
     <maven.compiler.plugin.version>3.5.1</maven.compiler.plugin.version>
